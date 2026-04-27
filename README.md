@@ -86,11 +86,12 @@ make
 ./ircserv <port> <password>
 make clean    # object files 제거
 make fclean   # 전체 빌드 산출물 제거
+make bonus    # 봇 빌드
 ```
 
 **irssi 접속 예시**
 ```
-/connect localhost <port> <password>
+/connect -nocap localhost <port> <password>
 ```
 
 ---
@@ -124,4 +125,4 @@ make fclean   # 전체 빌드 산출물 제거
 - **Networking**: POSIX Socket, epoll
 - **Protocol**: IRC (RFC 1459)
 - **Build**: Makefile
-- **Test**: irssi, echo client
+- **Test**: irssi, netcat
