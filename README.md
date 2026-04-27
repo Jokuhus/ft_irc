@@ -8,6 +8,9 @@
 ## Preview
 
 <!-- screenshot 또는 irssi 접속 화면 캡처를 여기에 추가 -->
+<img width="970" height="243" alt="Screenshot 2026-04-27 at 12 27 59 PM" src="https://github.com/user-attachments/assets/6f133e37-abca-4252-bb82-dee1e42eb96a" />
+<img width="454" height="102" alt="Screenshot 2026-04-27 at 12 28 21 PM" src="https://github.com/user-attachments/assets/4af3b63a-6254-422b-82a9-64cdc6d8a941" />
+
 
 ---
 
